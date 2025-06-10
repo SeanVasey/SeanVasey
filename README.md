@@ -1,16 +1,33 @@
-## Hi there 👋
+# SeanVasey
 
-<!--
-**SeanVasey/SeanVasey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Config files and dev tools for personal (non-commercial) use.
 
-Here are some ideas to get you started:
+## Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository contains configuration files and tools to support development and automation for SeanVasey's personal projects.
+
+## Features
+
+- Centralized config management
+- Dev tools for automation
+- Open to community suggestions
+
+## Getting Started
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/SeanVasey/SeanVasey.git
+    ```
+2. Explore the configuration files and tools in the repo.
+
+## Contributing
+
+Contributions, bug reports, and suggestions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## License
+
+See [LICENSE](LICENSE) for details.
+
+## Contact
+
+- GitHub: [SeanVasey](https://github.com/SeanVasey)
