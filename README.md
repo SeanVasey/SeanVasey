@@ -31,3 +31,7 @@ See [LICENSE](LICENSE) for details.
 ## Contact
 
 - GitHub: [SeanVasey](https://github.com/SeanVasey)
+
+## Base Mainnet Logo
+
+This repository hosts `base.svg`, the official Base Mainnet logo from the Base brand kit. You can reference the raw file directly for use with Brave Wallet or other applications.
