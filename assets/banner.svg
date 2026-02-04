@@ -1,0 +1,21 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b0f14"/>
+      <stop offset="0.55" stop-color="#101821"/>
+      <stop offset="1" stop-color="#0b0f14"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10c7d8"/>
+      <stop offset="1" stop-color="#2ec4b6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <circle cx="110" cy="110" r="80" fill="url(#accent)" opacity="0.18"/>
+  <circle cx="1060" cy="60" r="120" fill="url(#accent)" opacity="0.12"/>
+  <circle cx="980" cy="250" r="90" fill="url(#accent)" opacity="0.18"/>
+  <path d="M80 250C180 190 260 180 360 200C440 215 520 250 620 240C740 226 820 160 930 150" stroke="url(#accent)" stroke-width="3" opacity="0.5"/>
+  <text x="80" y="140" fill="#e6f7ff" font-size="44" font-weight="700" font-family="'Inter', 'Segoe UI', sans-serif">Sean Vasey</text>
+  <text x="80" y="185" fill="#9bdbe5" font-size="20" font-weight="600" font-family="'Inter', 'Segoe UI', sans-serif">VASEY/AI • Vasey Multimedia • AI + Media Development</text>
+  <text x="80" y="225" fill="#7fbfca" font-size="16" font-weight="500" font-family="'Inter', 'Segoe UI', sans-serif">Creative tooling • Prompt engineering • Audio/visual experiences</text>
+</svg>
