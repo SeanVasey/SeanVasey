@@ -1,0 +1,17 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="640" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b0f14"/>
+      <stop offset="1" stop-color="#121c26"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10c7d8"/>
+      <stop offset="1" stop-color="#2ec4b6"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <rect x="24" y="24" width="592" height="312" rx="18" stroke="url(#accent)" stroke-width="2"/>
+  <text x="48" y="120" fill="#e6f7ff" font-size="34" font-weight="700" font-family="'Inter', 'Segoe UI', sans-serif">Media-Sourceror</text>
+  <text x="48" y="160" fill="#9bdbe5" font-size="18" font-weight="600" font-family="'Inter', 'Segoe UI', sans-serif">Audio Extraction Tool</text>
+  <text x="48" y="210" fill="#7fbfca" font-size="14" font-weight="500" font-family="'Inter', 'Segoe UI', sans-serif">Placeholder preview</text>
+</svg>
