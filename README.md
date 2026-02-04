@@ -1,33 +1,33 @@
-# SeanVasey
+# Sean Vasey
 
-Config files and dev tools for personal (non-commercial) use.
+AI & media developer focused on creative tooling, prompt engineering, and interactive audio/visual experiences. This profile centers on **VASEY/AI** and **Vasey Multimedia**, with active work in AI-assisted creation, media utilities, and music production.
 
-## Overview
+**Contact:** sean@vaseyai.com
 
-This repository contains configuration files and tools to support development and automation for SeanVasey's personal projects.
+## Profile Blurb
+I build practical, design-forward tools that blend AI with media workflows—from prompt engineering studios to fast, mobile-ready utilities. I also develop music production tools and experiments under **Vasey Multimedia**, with an emphasis on accessible, creative instruments and audio tooling.
 
-## Features
+## Enterprises & Focus
+- **VASEY/AI** — AI-assisted media tools, prompt systems, and creative automation.
+- **Vasey Multimedia** — music production tools, instruments, and interactive audio experiences.
 
-- Centralized config management
-- Dev tools for automation
-- Open to community suggestions
+## Apps & Projects
+Status reflects known deployed URLs (Vercel/GitHub Pages) and active development.
 
-## Getting Started
+| Project | Description | Status | Live | Repo |
+| --- | --- | --- | --- | --- |
+| **StyleyeS** | Vivid prompt engineering studio for AI image generation with curated styles and controls. | Deployed | https://styleyes.vercel.app | https://github.com/SeanVasey/StyleyeS |
+| **OmniDev v3** | Personal LLM exploration and tooling environment. | Deployed | https://omnidev-v3.vercel.app | https://github.com/SeanVasey/OmniDev-v3 |
+| **FilePhile** | Mobile-first copy/paste document creator and saver. | Deployed | https://filephile.vercel.app | https://github.com/SeanVasey/FilePhile |
+| **Media-Sourceror** | Fast, personal-use audio extraction and conversion utility. | Deployed (GitHub Pages) | https://seanvasey.github.io/Media-Sourceror | https://github.com/SeanVasey/Media-Sourceror |
+| **VASEYSPACE** | ISS tracking and naked-eye visibility observer. | Deployed (GitHub Pages) | https://seanvasey.github.io/VASEYSPACE | https://github.com/SeanVasey/VASEYSPACE |
+| **DULLAH80s** | Mobile-ready 80s drum synth and sequencer. | Deployed (GitHub Pages) | https://seanvasey.github.io/DULLAH80s | https://github.com/SeanVasey/DULLAH80s |
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/SeanVasey/SeanVasey.git
-    ```
-2. Explore the configuration files and tools in the repo.
+## GitHub Profile Best Practices (Applied)
+- Clear, focused bio and mission statement
+- Enterprise context and creative focus areas
+- Live product links + repositories
+- Direct contact email
 
-## Contributing
-
-Contributions, bug reports, and suggestions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-See [LICENSE](LICENSE) for details.
-
-## Contact
-
-- GitHub: [SeanVasey](https://github.com/SeanVasey)
+## Notes
+If any GitHub Pages links need corrections, let me know and I’ll update them to match the configured Pages URLs.
