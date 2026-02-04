@@ -23,6 +23,21 @@ Status reflects known deployed URLs (Vercel/GitHub Pages) and active development
 | **VASEYSPACE** | ISS tracking and naked-eye visibility observer. | Deployed (GitHub Pages) | https://seanvasey.github.io/VASEYSPACE | https://github.com/SeanVasey/VASEYSPACE |
 | **DULLAH80s** | Mobile-ready 80s drum synth and sequencer. | Deployed (GitHub Pages) | https://seanvasey.github.io/DULLAH80s | https://github.com/SeanVasey/DULLAH80s |
 
+## Tech Stack
+- **AI/LLM tooling:** Prompt engineering, creative automation
+- **Web:** JavaScript, TypeScript, HTML, CSS
+- **UX:** Mobile-first, PWA-ready experiences
+- **Media:** Audio tooling, sequencing, interactive music utilities
+
+## Featured Media
+- StyleyeS (Prompt studio): https://styleyes.vercel.app
+- OmniDev v3 (LLM workspace): https://omnidev-v3.vercel.app
+- DULLAH80s (Drum synth): https://seanvasey.github.io/DULLAH80s
+
+## GitHub Highlights
+- Pinned repos: StyleyeS, OmniDev-v3, FilePhile, Media-Sourceror, VASEYSPACE, DULLAH80s
+- Add GitHub profile README images (app previews or banners) for quick visual context
+
 ## GitHub Profile Best Practices (Applied)
 - Clear, focused bio and mission statement
 - Enterprise context and creative focus areas
