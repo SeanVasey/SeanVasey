@@ -2,7 +2,11 @@
 
 ![VASEY/AI banner](assets/banner.svg)
 
-![VASEY/AI](https://img.shields.io/badge/VASEY%2FAI-creative-10c7d8?style=for-the-badge) ![Vasey Multimedia](https://img.shields.io/badge/Vasey%20Multimedia-audio-0aa6c2?style=for-the-badge) ![AI](https://img.shields.io/badge/AI-LLM%20tools-2aa7ff?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-studio-00bcd4?style=for-the-badge) ![Media](https://img.shields.io/badge/Media-creative%20tech-2ec4b6?style=for-the-badge) ![Music Production](https://img.shields.io/badge/Music-Production-1b9aaa?style=for-the-badge) ![PWA](https://img.shields.io/badge/PWA-Mobile%20First-0b7285?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-ESNext-f7df1e?style=for-the-badge&logo=javascript&logoColor=000000) ![TypeScript](https://img.shields.io/badge/TypeScript-TS-3178c6?style=for-the-badge&logo=typescript&logoColor=ffffff) ![HTML](https://img.shields.io/badge/HTML5-Frontend-e34f26?style=for-the-badge&logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/badge/CSS3-Design-1572b6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![VASEY/AI](https://img.shields.io/badge/VASEY%2FAI-creative%20tools-10c7d8?style=for-the-badge) ![Vasey Multimedia](https://img.shields.io/badge/Vasey%20Multimedia-audio%20%26%20music-0aa6c2?style=for-the-badge)
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-studio-00bcd4?style=flat-square) ![AI / LLM](https://img.shields.io/badge/AI-LLM%20tooling-2aa7ff?style=flat-square) ![Media](https://img.shields.io/badge/Media-creative%20tech-2ec4b6?style=flat-square) ![PWA](https://img.shields.io/badge/PWA-mobile%20first-0b7285?style=flat-square)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ESNext-f7df1e?style=flat-square&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-TS-3178c6?style=flat-square&logo=typescript&logoColor=fff) ![HTML5](https://img.shields.io/badge/HTML5-markup-e34f26?style=flat-square&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-styling-1572b6?style=flat-square&logo=css3&logoColor=fff)
 
 AI & media developer focused on creative tooling, prompt engineering, and interactive audio/visual experiences. This profile centers on **VASEY/AI** and **Vasey Multimedia**, with active work in AI-assisted creation, media utilities, and music production.
 
@@ -21,9 +25,9 @@ Status reflects known deployed URLs (Vercel/GitHub Pages) and active development
 | Preview | Project | Description | Status | Live | Repo |
 | --- | --- | --- | --- | --- | --- |
 | ![StyleyeS preview](assets/placeholders/styleyes.svg) | **StyleyeS** | Vivid prompt engineering studio for AI image generation with curated styles and controls. | Deployed | https://styleyes.vercel.app | https://github.com/SeanVasey/StyleyeS |
-| ![OmniDev v3 preview](assets/placeholders/omnidev-v3.svg) | **OmniDev v3** | Personal LLM exploration and tooling environment. | Deployed | https://omnidev-v3.vercel.app | https://github.com/SeanVasey/OmniDev-v3 |
-| ![FilePhile preview](assets/placeholders/filephile.svg) | **FilePhile** | Mobile-first copy/paste document creator and saver. | Deployed | https://filephile.vercel.app | https://github.com/SeanVasey/FilePhile |
-| ![Media-Sourceror preview](assets/placeholders/media-sourceror.svg) | **Media-Sourceror** | Fast, personal-use audio extraction and conversion utility. | Deployed (GitHub Pages) | https://seanvasey.github.io/Media-Sourceror | https://github.com/SeanVasey/Media-Sourceror |
+| ![rePROMPT preview](assets/placeholders/reprompt.svg) | **rePROMPT** | AI prompt enhancer that refines and expands prompts for richer, more detailed outputs. | Deployed | https://reprompt.vercel.app | https://github.com/SeanVasey/rePROMPT |
+| ![FilePhile preview](assets/placeholders/filephile.svg) | **FilePhile** | File generation studio for creating, editing, and exporting documents in multiple formats. | Deployed | https://filephile.vercel.app | https://github.com/SeanVasey/FilePhile |
+| ![reSOURCERY preview](assets/placeholders/resourcery.svg) | **reSOURCERY** | Fast media extraction and conversion tool for pulling audio and video from web sources. | Deployed | https://resourcery.vercel.app | https://github.com/SeanVasey/reSOURCERY |
 | ![VASEYSPACE preview](assets/placeholders/vaseyspace.svg) | **VASEYSPACE** | ISS tracking and naked-eye visibility observer. | Deployed (GitHub Pages) | https://seanvasey.github.io/VASEYSPACE | https://github.com/SeanVasey/VASEYSPACE |
 | ![DULLAH80s preview](assets/placeholders/dullah80s.svg) | **DULLAH80s** | Mobile-ready 80s drum synth and sequencer. | Deployed (GitHub Pages) | https://seanvasey.github.io/DULLAH80s | https://github.com/SeanVasey/DULLAH80s |
 
@@ -48,7 +52,7 @@ Use the placeholders below to add milestone notes, projected completion dates, a
   - [placeholder]
   - [placeholder]
 
-### OmniDev v3
+### rePROMPT
 - **Current phase:** [placeholder]
 - **Projected release:** [placeholder]
 - **Milestones:**
@@ -64,7 +68,7 @@ Use the placeholders below to add milestone notes, projected completion dates, a
   - [placeholder]
   - [placeholder]
 
-### Media-Sourceror
+### reSOURCERY
 - **Current phase:** [placeholder]
 - **Projected release:** [placeholder]
 - **Milestones:**
@@ -96,11 +100,11 @@ Use the placeholders below to add milestone notes, projected completion dates, a
 
 ## Featured Media
 - StyleyeS (Prompt studio): https://styleyes.vercel.app
-- OmniDev v3 (LLM workspace): https://omnidev-v3.vercel.app
+- rePROMPT (Prompt enhancer): https://reprompt.vercel.app
 - DULLAH80s (Drum synth): https://seanvasey.github.io/DULLAH80s
 
 ## GitHub Highlights
-- Pinned repos: StyleyeS, OmniDev-v3, FilePhile, Media-Sourceror, VASEYSPACE, DULLAH80s
+- Pinned repos: StyleyeS, rePROMPT, FilePhile, reSOURCERY, VASEYSPACE, DULLAH80s
 - Add GitHub profile README images (app previews or banners) for quick visual context
 
 ## GitHub Profile Best Practices (Applied)
@@ -110,4 +114,4 @@ Use the placeholders below to add milestone notes, projected completion dates, a
 - Direct contact email
 
 ## Notes
-If any GitHub Pages links need corrections, let me know and I’ll update them to match the configured Pages URLs.
+If any GitHub Pages links need corrections, let me know and I'll update them to match the configured Pages URLs.
