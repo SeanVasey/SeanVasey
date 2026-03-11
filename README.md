@@ -14,8 +14,10 @@
 [![Email](https://img.shields.io/badge/sean@vaseyai.com-0d1520?style=flat-square&logo=gmail&logoColor=0ef0ff)](mailto:sean@vaseyai.com)&nbsp;
 [![X](https://img.shields.io/badge/@SeannyV-0d1520?style=flat-square&logo=x&logoColor=fff)](https://x.com/SeannyV)&nbsp;
 [![Instagram](https://img.shields.io/badge/@vasey.audio-0d1520?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/vasey.audio)&nbsp;
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-0d1520?style=flat-square&logo=soundcloud&logoColor=FF5500)](https://soundcloud.com/seanvasey)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1520?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/seanvasey)&nbsp;
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-0d1520?style=flat-square&logo=soundcloud&logoColor=FF5500)](https://soundcloud.com/vaseyaudio)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1520?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/seanmvasey)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-0d1520?style=flat-square&logo=youtube&logoColor=FF0000)](https://youtube.com/channel/UCgr3dcoFkHMHAiG9hacNbTg)&nbsp;
+[![Bluesky](https://img.shields.io/badge/Bluesky-0d1520?style=flat-square&logo=bluesky&logoColor=0085FF)](https://bsky.app/profile/vasey.audio)&nbsp;
 [![Portfolio](https://img.shields.io/badge/seanvasey.link-0d1520?style=flat-square&logo=linktree&logoColor=43E55E)](https://seanvasey.link)
 
 </div>
@@ -47,9 +49,9 @@ AI-assisted media tools and creative automation. Focused on prompt engineering s
 <td width="50%" valign="top">
 
 ### 🎵 Vasey Multimedia
-Music production tools, interactive instruments, and audio experiences. Building browser-based creative instruments that are accessible on any device.
+Music production, interactive instruments, and audio experiences. From browser-based drum machines to beat production and mixing/mastering services at [vasey.audio](https://vasey.audio).
 
-**Focus areas:** Audio synthesis · Drum machines · Music production · Sound design · Interactive audio
+**Focus areas:** Audio synthesis · Drum machines · Beat production · Sound design · Mixing & mastering
 
 </td>
 </tr>
@@ -70,7 +72,7 @@ Music production tools, interactive instruments, and audio experiences. Building
 <img src="assets/placeholders/styleyes.svg" width="280" alt="StyleyeS" /><br>
 <strong>StyleyeS</strong>
 </a><br>
-<sub>Prompt engineering studio for AI image generation. Curated style presets, real-time prompt construction, and visual controls for crafting vivid image prompts.</sub><br><br>
+<sub>Prompt engineering studio for AI image generation with 60+ curated art styles, a Recipe Stack system for layering up to 8 effects, target model selection, and full prompt history.</sub><br><br>
 <a href="https://styleyes.vercel.app"><img src="https://img.shields.io/badge/▶_LIVE-0ef0ff?style=flat-square&labelColor=0d1520" alt="Live"></a>
 <a href="https://github.com/SeanVasey/StyleyeS"><img src="https://img.shields.io/badge/repo-2ec4b6?style=flat-square&labelColor=0d1520&logo=github&logoColor=fff" alt="Repo"></a>
 </td>
@@ -88,7 +90,7 @@ Music production tools, interactive instruments, and audio experiences. Building
 <img src="assets/placeholders/filephile.svg" width="280" alt="FilePhile" /><br>
 <strong>FilePhile</strong>
 </a><br>
-<sub>File generation studio for creating, editing, and exporting documents. Supports TXT, Markdown, JSON, CSV, HTML and more—all in-browser.</sub><br><br>
+<sub>Browser-based editor and file generation studio with 30+ export formats, syntax highlighting, regex find & replace, 50-level undo/redo, Zen Mode, and auto-save.</sub><br><br>
 <a href="https://filephile.vercel.app"><img src="https://img.shields.io/badge/▶_LIVE-0ef0ff?style=flat-square&labelColor=0d1520" alt="Live"></a>
 <a href="https://github.com/SeanVasey/FilePhile"><img src="https://img.shields.io/badge/repo-2ec4b6?style=flat-square&labelColor=0d1520&logo=github&logoColor=fff" alt="Repo"></a>
 </td>
@@ -100,7 +102,7 @@ Music production tools, interactive instruments, and audio experiences. Building
 <img src="assets/placeholders/resourcery.svg" width="280" alt="reSOURCERY" /><br>
 <strong>reSOURCERY</strong>
 </a><br>
-<sub>Fast media extraction and conversion tool. Pull audio and video from web sources, convert between formats, and download—no installs needed.</sub><br><br>
+<sub>Client-side audio extraction and conversion powered by FFmpeg.wasm. Upload video/audio, auto-detect tempo, key, and metadata, then export to FLAC, WAV, MP3, or AAC.</sub><br><br>
 <a href="https://resourcery.vercel.app"><img src="https://img.shields.io/badge/▶_LIVE-0ef0ff?style=flat-square&labelColor=0d1520" alt="Live"></a>
 <a href="https://github.com/SeanVasey/reSOURCERY"><img src="https://img.shields.io/badge/repo-2ec4b6?style=flat-square&labelColor=0d1520&logo=github&logoColor=fff" alt="Repo"></a>
 </td>
@@ -118,7 +120,7 @@ Music production tools, interactive instruments, and audio experiences. Building
 <img src="assets/placeholders/dullah80s.svg" width="280" alt="DULLAH80s" /><br>
 <strong>DULLAH80s</strong>
 </a><br>
-<sub>Mobile-ready 80s drum synthesizer and step sequencer. Classic drum machine sounds with a modern interface—play, sequence, and perform right in the browser.</sub><br><br>
+<sub>16-step sequencer with 16 percussion instruments, 4 pattern banks, swing control, live pads, reverb/delay effects, and a neon glassmorphism UI—all via Web Audio API.</sub><br><br>
 <a href="https://seanvasey.github.io/DULLAH80s"><img src="https://img.shields.io/badge/▶_LIVE-0ef0ff?style=flat-square&labelColor=0d1520" alt="Live"></a>
 <a href="https://github.com/SeanVasey/DULLAH80s"><img src="https://img.shields.io/badge/repo-2ec4b6?style=flat-square&labelColor=0d1520&logo=github&logoColor=fff" alt="Repo"></a>
 </td>
@@ -135,6 +137,8 @@ Music production tools, interactive instruments, and audio experiences. Building
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Web Audio API](https://img.shields.io/badge/Web_Audio_API-4A90D9?style=for-the-badge&logo=webaudio&logoColor=fff)
+![FFmpeg](https://img.shields.io/badge/FFmpeg.wasm-007808?style=for-the-badge&logo=ffmpeg&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222?style=for-the-badge&logo=github&logoColor=fff)
 
