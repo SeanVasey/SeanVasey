@@ -22,6 +22,7 @@
 [![Instagram](https://img.shields.io/badge/@vasey.audio-0d1520?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/vasey.audio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1520?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/seanmvasey)
 [![Portfolio](https://img.shields.io/badge/seanvasey.link-0d1520?style=flat-square&logo=linktree&logoColor=43E55E)](https://seanvasey.link)
+[![CI](https://github.com/SeanVasey/SeanVasey/actions/workflows/ci.yml/badge.svg)](https://github.com/SeanVasey/SeanVasey/actions/workflows/ci.yml)
 
 </div>
 
@@ -30,6 +31,16 @@
 ## Product Overview
 
 This repository is the public profile and portfolio hub for Sean Vasey, showcasing production applications across **AI tooling**, **prompt engineering**, **media workflows**, and **interactive audio products**.
+
+## Repository Status
+
+| Item | Status |
+| --- | --- |
+| CI (Markdown Quality) | [![CI](https://github.com/SeanVasey/SeanVasey/actions/workflows/ci.yml/badge.svg)](https://github.com/SeanVasey/SeanVasey/actions/workflows/ci.yml) |
+| Repo Type | Documentation-first profile/portfolio |
+| Default Branch | `main` |
+| License | MIT |
+| Active Apps | 6 deployed (see Project Gallery) |
 
 ## Features
 
