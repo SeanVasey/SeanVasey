@@ -1,0 +1,17 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node tooling cache
+node_modules/
+.npm/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
