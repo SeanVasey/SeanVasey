@@ -18,6 +18,7 @@
 ## Automation
 
 - `.github/workflows/ci.yml` — Markdown quality CI checks on PR and push.
+- `.github/workflows/summary.yml` — AI-powered issue summarization on new issue creation.
 
 ## Notes
 
