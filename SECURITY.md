@@ -5,6 +5,7 @@
 This repository is documentation-first and primarily contains profile, portfolio, and static asset content.
 
 Security concerns that are still relevant include:
+
 - Malicious or misleading links.
 - Accidental inclusion of secrets.
 - Supply-chain risks in automation/tooling configuration.

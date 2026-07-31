@@ -1,174 +1,162 @@
 <div align="center">
 
-![Vasey Multimedia Banner](assets/brand/vasey-multimedia-banner.jpeg)
+<img src="assets/banner.svg" width="100%" alt="studio/VASEY — creative technology, AI systems, audio, and multimedia" />
 
-<table>
-<tr>
-<td align="center" width="180">
-<img src="assets/portraits/sean-vasey-portrait.png" width="160" alt="Portrait of Sean Vasey" />
-</td>
-<td>
+<p>
+  <a href="https://vaseymultimedia.com"><img src="assets/brand/vm-mark.svg" width="44" alt="Vasey Multimedia" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/brand/vai-mark.svg" width="44" alt="VASEY/AI" />
+</p>
 
-# Sean Vasey · VASEY/AI + Vasey Multimedia
+<h1>Sean Vasey</h1>
 
-**AI + media developer building design-forward creative tools, prompt systems, and interactive audio experiences.**
+<p><strong>Creative technologist building design-forward AI, web, audio, and multimedia products.</strong></p>
 
-</td>
-</tr>
-</table>
+<p>
+  <a href="mailto:sean@vaseyai.com"><img src="https://img.shields.io/badge/Email-101214?style=flat-square&logo=gmail&logoColor=00FFFF" alt="Email Sean Vasey" /></a>
+  <a href="https://github.com/SeanVasey"><img src="https://img.shields.io/badge/GitHub-101214?style=flat-square&logo=github&logoColor=FFFFFF" alt="Sean Vasey on GitHub" /></a>
+  <a href="https://linkedin.com/in/seanmvasey"><img src="https://img.shields.io/badge/LinkedIn-101214?style=flat-square&logo=linkedin&logoColor=009CFF" alt="Sean Vasey on LinkedIn" /></a>
+  <a href="https://instagram.com/vasey.audio"><img src="https://img.shields.io/badge/VASEY.AUDIO-101214?style=flat-square&logo=instagram&logoColor=00FFFF" alt="VASEY.AUDIO on Instagram" /></a>
+  <a href="https://x.com/SeannyV"><img src="https://img.shields.io/badge/@SeannyV-101214?style=flat-square&logo=x&logoColor=FFFFFF" alt="Sean Vasey on X" /></a>
+</p>
 
-[![Email](https://img.shields.io/badge/sean@vaseyai.com-0d1520?style=flat-square&logo=gmail&logoColor=0ef0ff)](mailto:sean@vaseyai.com)
-[![X](https://img.shields.io/badge/@SeannyV-0d1520?style=flat-square&logo=x&logoColor=fff)](https://x.com/SeannyV)
-[![Instagram](https://img.shields.io/badge/@vasey.audio-0d1520?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/vasey.audio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1520?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/seanmvasey)
-[![Portfolio](https://img.shields.io/badge/seanvasey.link-0d1520?style=flat-square&logo=linktree&logoColor=43E55E)](https://seanvasey.link)
+<p><code>VASEY/DEV</code> · <code>VASEY/AI</code> · <code>VASEY.AUDIO</code> · <code>Vasey Multimedia</code></p>
 
 </div>
 
----
+## Building at the intersection of sound, systems, and story
 
-## Product Overview
+I bring more than two decades of music production, composition, audio engineering, and sound design into software product development. My work connects that creative practice with full-stack engineering, multimodal AI, prompt systems, and mobile-first interaction design.
 
-This repository is the public profile and portfolio hub for Sean Vasey, showcasing production applications across **AI tooling**, **prompt engineering**, **media workflows**, and **interactive audio products**.
+Through **studio/VASEY**, I am building a connected portfolio of creator-facing products: focused tools with distinctive identities, practical workflows, and enough technical restraint to remain useful after the launch-day confetti has settled.
 
-## Features
+## Featured products
 
-- Branded header with official Vasey Multimedia banner + portrait imagery.
-- Curated live app showcase with custom placard cards.
-- Skills matrix with "flag" status indicators for core engineering and creative capabilities.
-- Security, contribution, and changelog documentation for repo governance.
-- Lightweight CI for Markdown quality checks.
-
-## Project Gallery
+Every preview below is standardized to the same 16:9 frame and represents the product's current interface and visual system. Product versions stay in the source repositories—not fossilized inside portfolio art.
 
 <table>
-<tr>
-<td align="center" width="33%">
-<a href="https://styleyes.vercel.app">
-<img src="assets/placards/styleyes-card.jpeg" width="280" alt="StyleyeS app placard" /><br>
-<strong>StyleyeS</strong>
-</a><br>
-<sub>Prompt engineering studio for AI image generation with layered style recipes and model targeting.</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://reprompt.vercel.app">
-<img src="assets/placards/reprompter-card.jpeg" width="280" alt="rePROMPTer app placard" /><br>
-<strong>rePROMPTer</strong>
-</a><br>
-<sub>Advanced prompt optimization engine for richer LLM and image model outcomes.</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://filephile.vercel.app">
-<img src="assets/placards/filephile-card.jpeg" width="280" alt="FilePhile app placard" /><br>
-<strong>FilePhile</strong>
-</a><br>
-<sub>Browser-based file generation studio with multi-format exports and editing tools.</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<a href="https://resourcery.vercel.app">
-<img src="assets/placards/resourcery-card.jpeg" width="280" alt="reSOURCERY app placard" /><br>
-<strong>reSOURCERY</strong>
-</a><br>
-<sub>Client-side media extraction + conversion workflows powered by FFmpeg.wasm.</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://seanvasey.github.io/VASEYSPACE">
-<img src="assets/placards/vaseyspace-card.png" width="280" alt="VASEYSPACE ISS Observer placard" /><br>
-<strong>VASEYSPACE / ISS Observer</strong>
-</a><br>
-<sub>Real-time ISS tracking experience with pass prediction and viewing guidance.</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://seanvasey.github.io/DULLAH80s">
-<img src="assets/placeholders/dullah80s.svg" width="280" alt="DULLAH80s app card" /><br>
-<strong>DULLAH80s</strong>
-</a><br>
-<sub>Web Audio API drum-machine sequencer with effects and live performance controls.</sub>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://vizion-io.vercel.app/">
+        <img src="assets/cards/vizion.svg" width="100%" alt="VIZION mobile interface preview with prompt input, enhancement modes, and a neon green action control" />
+      </a>
+      <br />
+      <img src="assets/icons/vizion.png" width="34" alt="" />
+      <strong>VIZION</strong><br />
+      <sub><strong>Live</strong> · VASEY/AI × VASEY/DEV</sub>
+      <p>Transforms rough prompts into model-aware, structured instructions through a focused mobile-first refinement workflow.</p>
+      <a href="https://vizion-io.vercel.app/">Open app</a> · <a href="https://github.com/SeanVasey/VIZION">Source</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://reprompter2.vercel.app/">
+        <img src="assets/cards/reprompter2.svg" width="100%" alt="rePROMPTer 2 interface preview with editor canvas, refinement modes, and crimson controls" />
+      </a>
+      <br />
+      <img src="assets/icons/reprompter2.png" width="34" alt="" />
+      <strong>rePROMPTer 2</strong><br />
+      <sub><strong>Live</strong> · VASEY/AI × VASEY/DEV</sub>
+      <p>Recursive, vision-aware prompt refinement with configurable modes, model selection, streaming output, and reusable history.</p>
+      <a href="https://reprompter2.vercel.app/">Open app</a> · <a href="https://github.com/SeanVasey/rePROMPTer2">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://ikonik-zeta.vercel.app/">
+        <img src="assets/cards/ikonik.svg" width="100%" alt="IkoniK vector studio interface preview with image upload, analysis, and SVG output panels" />
+      </a>
+      <br />
+      <img src="assets/icons/ikonik.png" width="34" alt="" />
+      <strong>IkoniK</strong><br />
+      <sub><strong>Live</strong> · VASEY/AI × VASEY/DEV</sub>
+      <p>Claude-powered raster-to-vector studio producing optimized SVG output with visual analysis and fidelity tooling.</p>
+      <a href="https://ikonik-zeta.vercel.app/">Open app</a> · <a href="https://github.com/SeanVasey/IkoniK">Source</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://page-x.vercel.app/">
+        <img src="assets/cards/page-x.svg" width="100%" alt="PAGE-X interface preview with oversized-media upload, page extraction settings, and PDF or DOCX output" />
+      </a>
+      <br />
+      <img src="assets/icons/page-x.png" width="34" alt="" />
+      <strong>PAGE•X</strong><br />
+      <sub><strong>Live</strong> · VASEY/AI × VASEY/DEV</sub>
+      <p>Extracts long images, scrolling captures, and PDFs into correctly paginated PDF or DOCX documents.</p>
+      <a href="https://page-x.vercel.app/">Open app</a> · <a href="https://github.com/SeanVasey/PAGE-X">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://styleyes.vercel.app/">
+        <img src="assets/cards/styleyes.svg" width="100%" alt="StyleyeS interface preview with prompt input, target model selection, aspect ratio, and style controls" />
+      </a>
+      <br />
+      <img src="assets/icons/styleyes.png" width="34" alt="" />
+      <strong>StyleyeS</strong><br />
+      <sub><strong>Live</strong> · VASEY/AI × VASEY/DEV</sub>
+      <p>Builds image-generation prompts from curated visual styles, lighting systems, aspect ratios, and model-specific controls.</p>
+      <a href="https://styleyes.vercel.app/">Open app</a> · <a href="https://github.com/SeanVasey/StyleyeS">Source</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://resourcery.vercel.app/">
+        <img src="assets/cards/resourcery.svg" width="100%" alt="reSOURCERY audio extraction interface preview with URL input, media drop zone, formats, and analysis controls" />
+      </a>
+      <br />
+      <img src="assets/icons/resourcery.png" width="34" alt="" />
+      <strong>reSOURCERY</strong><br />
+      <sub><strong>Live</strong> · VASEY.AUDIO × VASEY/DEV</sub>
+      <p>Extracts and converts audio from media, then analyzes waveform, tempo, and key with an FFmpeg.wasm-powered workflow.</p>
+      <a href="https://resourcery.vercel.app/">Open app</a> · <a href="https://github.com/SeanVasey/reSOURCERY">Source</a>
+    </td>
+  </tr>
 </table>
 
-## App Status Flags
+## More shipped work
 
-| App | Status | Platform | Primary Domain |
+| Product | Status | What it does | Links |
 | --- | --- | --- | --- |
-| StyleyeS | 🟢 Live | Vercel | Prompt Engineering + AI Image Workflows |
-| rePROMPTer | 🟢 Live | Vercel | Prompt Optimization |
-| FilePhile | 🟢 Live | Vercel | File Tools + Frontend UX |
-| reSOURCERY | 🟢 Live | Vercel | Media Extraction + FFmpeg.wasm |
-| VASEYSPACE | 🟢 Live | GitHub Pages | Space Data + Frontend Data Viz |
-| DULLAH80s | 🟢 Live | GitHub Pages | Web Audio + Sequencing |
+| **FilePhile** | Live | Browser-based text-file editor and generator with import, preview, multi-format downloads, and offline PWA support. | [App](https://filephile.vercel.app/) · [Source](https://github.com/SeanVasey/FilePhile) |
+| **ISS Observer — VASEY/SPACE** | Live | Real-time ISS tracking, pass predictions, 2D/3D visualization, and location-aware viewing guidance. | [App](https://iss-observer.vercel.app/) · [Source](https://github.com/SeanVasey/ISS-Observer) |
+| **REGENESYS** | Live | Visual prompt reverse-engineering studio for image analysis, hybrid style synthesis, controlled variants, and platform-targeted prompts. | [App](https://regenesys.vercel.app/) · [Source](https://github.com/SeanVasey/REGENESYS) |
+| **DULLAH80s** | Live | Web Audio drum machine with synthesized pads, a 16-step sequencer, effects, and performance controls. | [App](https://seanvasey.github.io/DULLAH80s/) · [Source](https://github.com/SeanVasey/DULLAH80s) |
 
-## Skills Flags (Developer Profile)
+## The studio/VASEY ecosystem
 
-| Skill Area | Flag | Notes |
-| --- | --- | --- |
-| Prompt Engineering | ✅ Expert | Structured prompt frameworks, optimization, and workflow UX. |
-| Frontend Engineering | ✅ Expert | HTML/CSS/JavaScript/TypeScript, responsive and mobile-first UI patterns. |
-| AI Product Design | ✅ Expert | Practical creator-facing tools with clear interaction models. |
-| Audio Product Development | ✅ Expert | Browser audio systems, sequencing, and production workflow tooling. |
-| DevOps / Delivery | ✅ Strong | Vercel + GitHub Pages deployment and CI discipline. |
+| Studio identity | Focus |
+| --- | --- |
+| **studio/VASEY** | Parent studio connecting the full creative, technology, music, and product ecosystem. |
+| **Vasey Multimedia** | Cross-media production, creative direction, design, and interactive experiences. |
+| **VASEY/DEV** | Software product engineering, web applications, platform architecture, and delivery standards. |
+| **VASEY/AI** | LLM, multimodal, agentic, and creator-focused AI research and product development. |
+| **VASEY.AUDIO** | Music production, composition, sound design, audio engineering, and creative audio technology. |
+| **Sean Vasey Productions + Vasey Music Group** | Production and music identities supporting original work, artists, and releases. |
 
-## Tech Stack
+## Capabilities
 
-- **Languages:** JavaScript, TypeScript, HTML5, CSS3
-- **Runtime/Browser APIs:** Web Audio API, Canvas/Web platform APIs
-- **Media Tooling:** FFmpeg.wasm
-- **Hosting:** Vercel, GitHub Pages
-- **Collaboration:** GitHub Actions, pull-request workflows
+- **AI and agentic systems:** multimodal product design, prompt architecture, tool-using workflows, model routing, evaluation, and production integrations.
+- **Product and web engineering:** TypeScript, JavaScript, Next.js, React, Supabase, Vercel, PWAs, browser APIs, responsive UX, accessibility, and secure delivery.
+- **Audio and creative technology:** Web Audio, FFmpeg.wasm, JUCE exploration, synthesis, MIDI, sound design, composition, mixing, and creator workflow design.
 
-## Setup / Run / Build / Test
+## Current focus
 
-This repository is documentation-first and does not ship a standalone runtime service.
+- Advancing **VIZION** as a polished, mobile-first prompt intelligence product.
+- Establishing **VASEY/DEV** as the shared engineering and product-quality layer across the studio/VASEY portfolio.
+- Developing original audio, synthesis, and multimodal creation systems through **VASEY.AUDIO** and **VASEY/AI**.
 
-```bash
-# Validate markdown style
-npx --yes markdownlint-cli "**/*.md"
+<details>
+<summary><strong>About this profile repository</strong></summary>
 
-# Check links in README
-npx --yes markdown-link-check README.md
-```
+This repository contains the public GitHub profile for Sean Vasey. It is documentation-first and does not ship a standalone runtime service.
 
-## Environment Variables
+- Markdown quality and link validation run in GitHub Actions.
+- Profile source is licensed under the [MIT License](LICENSE).
+- Branded imagery remains the property of Sean Vasey and the studio/VASEY ecosystem unless otherwise noted.
 
-No runtime environment variables are required for this profile repository.
-A placeholder `.env.example` is included for baseline consistency.
-
-## Architecture / Folder Structure
-
-```text
-assets/
-  brand/         # top-level brand imagery (banner)
-  portraits/     # profile portrait assets
-  placards/      # app-specific card artwork for portfolio grid
-  placeholders/  # legacy fallback cards still in use where needed
-docs/
-  MANIFEST.md    # file inventory and artifact purpose
-.github/workflows/
-  ci.yml         # markdown validation on push/PR
-```
-
-## Deployment Notes
-
-- Portfolio apps linked in this README are deployed externally on **Vercel** and **GitHub Pages**.
-- This repository itself is GitHub-hosted profile/documentation content.
-
-## Usage Examples
-
-- Browse projects and click directly into live deployed applications.
-- Use linked repos to inspect source code for individual products.
-
-## Asset and Licensing Notes
-
-- Code/documentation in this repo is licensed under MIT. See `LICENSE`.
-- Portfolio image assets are branded works by Sean Vasey and should not be redistributed outside portfolio/reference use without permission.
-
----
+</details>
 
 <div align="center">
-<img src="assets/portraits/sean-vasey-portrait-cyan.jpeg" width="120" alt="Alternate portrait badge for Sean Vasey" />
-<br>
-<strong><a href="https://vaseyai.com">vaseyai.com</a></strong> · <strong><a href="https://vasey.audio">vasey.audio</a></strong> · <strong><a href="https://seanvasey.link">seanvasey.link</a></strong>
+
+<img src="assets/divider.svg" width="80%" alt="" />
+
+<strong>Designed and built in Des Moines, Iowa.</strong><br />
+<sub>Music-trained. Product-minded. Mildly suspicious of unnecessary dashboards.</sub>
+
 </div>
