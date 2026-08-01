@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="vizion-title vizion-desc">
+  <title id="vizion-title">VIZION prompt studio interface preview</title>
+  <desc id="vizion-desc">A faithful dark-mode preview of VIZION with its six-mode enhancement rig, target-model rail, prompt composer, Enhance action, and bottom navigation.</desc>
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00FFFF"/>
+      <stop offset="1" stop-color="#009CFF"/>
+    </linearGradient>
+    <radialGradient id="ambient" cx="50%" cy="28%" r="62%">
+      <stop offset="0" stop-color="#B7FF3C" stop-opacity=".13"/>
+      <stop offset=".42" stop-color="#26331F" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#0F1012" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fadeRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B7FF3C" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#B7FF3C" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#B7FF3C" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#FFFFFF" stroke-opacity=".018"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <clipPath id="viewportClip"><rect x="24" y="82" width="1232" height="614" rx="22"/></clipPath>
+  </defs>
+
+  <rect width="1280" height="720" fill="#101214"/>
+  <rect width="1280" height="720" fill="url(#grid)"/>
+  <rect x="24" y="18" width="1232" height="52" rx="16" fill="#15191D" stroke="url(#frame)" stroke-opacity=".8"/>
+  <circle cx="50" cy="44" r="5" fill="#00FFFF"/>
+  <text x="68" y="50" fill="#EAFBFF" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">VASEY/DEV</text>
+  <text x="1228" y="50" text-anchor="end" fill="#73909B" font-family="Inter, Arial, sans-serif" font-size="13" letter-spacing="1.4">APPLICATION PREVIEW</text>
+
+  <g clip-path="url(#viewportClip)">
+    <rect x="24" y="82" width="1232" height="614" fill="#0F1012"/>
+    <rect x="24" y="82" width="1232" height="614" fill="url(#ambient)"/>
+    <rect x="24" y="82" width="1232" height="614" fill="url(#grid)" opacity=".8"/>
+
+    <rect x="24" y="82" width="1232" height="68" fill="#101216" fill-opacity=".78" stroke="#B9BCC5" stroke-opacity=".12"/>
+    <g transform="translate(329 97)">
+      <rect width="38" height="38" rx="11" fill="#16181D" stroke="#B7FF3C" stroke-opacity=".58"/>
+      <path d="M10 19c4-8 14-8 18 0-4 8-14 8-18 0Z" fill="none" stroke="#B7FF3C" stroke-width="2"/>
+      <circle cx="19" cy="19" r="3.5" fill="#B7FF3C"/>
+    </g>
+    <text x="380" y="124" fill="#F2F3F6" font-family="Arial Narrow, Inter, sans-serif" font-size="31" font-weight="800" letter-spacing="2">VIZ</text>
+    <text x="437" y="124" fill="#B7FF3C" font-family="Arial Narrow, Inter, sans-serif" font-size="31" font-weight="800" letter-spacing="2">IO</text>
+    <text x="473" y="124" fill="#F2F3F6" font-family="Arial Narrow, Inter, sans-serif" font-size="31" font-weight="800" letter-spacing="2">N</text>
+    <g transform="translate(908 107)" stroke="#B9BCC5" stroke-width="1.5" fill="none">
+      <circle cx="12" cy="12" r="6"/><path d="M12 1v3M12 20v3M1 12h3M20 12h3"/>
+    </g>
+
+    <g transform="translate(315 162)">
+      <rect x="204" y="17" width="240" height="1" fill="url(#fadeRule)"/>
+      <circle cx="324" cy="17.5" r="3" fill="#B7FF3C"/>
+      <circle cx="324" cy="17.5" r="10" fill="#B7FF3C" opacity=".12" filter="url(#softGlow)"/>
+
+      <rect x="0" y="55" width="650" height="82" rx="18" fill="#2B2D33" fill-opacity=".72" stroke="#B9BCC5" stroke-opacity=".18"/>
+      <rect x="5" y="60" width="107" height="72" rx="14" fill="#B7FF3C"/>
+      <g font-family="Inter, Arial, sans-serif" font-size="12" text-anchor="middle">
+        <g fill="#0E1013" font-weight="700"><circle cx="58" cy="81" r="8" fill="none" stroke="#0E1013" stroke-width="1.5"/><path d="m64 87 6 6" stroke="#0E1013" stroke-width="1.5"/><text x="58" y="116">Clarify</text></g>
+        <g fill="#B9BCC5"><path d="M154 88h8l12-12 4 4-12 12h-12Z" fill="none" stroke="#B7FF3C" stroke-width="1.5"/><text x="162" y="116">Polish</text></g>
+        <g fill="#B9BCC5"><path d="M252 76h-7v7M273 76h7v7M252 97h-7v-7M273 97h7v-7" fill="none" stroke="#B7FF3C" stroke-width="1.5"/><text x="270" y="116">Expand</text></g>
+        <g fill="#B9BCC5"><path d="M360 83v-7h7M381 83v-7h-7M360 90v7h7M381 90v7h-7" fill="none" stroke="#B7FF3C" stroke-width="1.5"/><text x="377" y="116">Condense</text></g>
+        <g fill="#B9BCC5"><path d="M462 79h20M462 86h14M462 93h17" stroke="#B7FF3C" stroke-width="1.5"/><text x="475" y="116">Reformat</text></g>
+        <g fill="#B9BCC5"><circle cx="590" cy="86" r="10" fill="none" stroke="#B7FF3C" stroke-width="1.5"/><circle cx="590" cy="86" r="3" fill="none" stroke="#B7FF3C" stroke-width="1.5"/><text x="590" y="116">Adapt</text></g>
+      </g>
+      <text x="325" y="158" fill="#B9BCC5" font-family="Inter, Arial, sans-serif" font-size="13" text-anchor="middle">Sharpens what you’re asking for — same request, no ambiguity.</text>
+
+      <rect x="0" y="181" width="650" height="294" rx="19" fill="#2B2D33" fill-opacity=".72" stroke="#B9BCC5" stroke-opacity=".2"/>
+      <line x1="0" y1="231" x2="650" y2="231" stroke="#B9BCC5" stroke-opacity=".18"/>
+      <text x="18" y="212" fill="#B9BCC5" font-family="Inter, Arial, sans-serif" font-size="11" letter-spacing="2.2">TARGET</text>
+      <rect x="466" y="193" width="166" height="28" rx="14" fill="#16181D" stroke="#B9BCC5" stroke-opacity=".18"/>
+      <circle cx="485" cy="207" r="5" fill="#0EA480"/>
+      <text x="499" y="212" fill="#F2F3F6" font-family="Inter, Arial, sans-serif" font-size="13">Opus 5</text>
+      <path d="m617 204 5 5 5-5" fill="none" stroke="#B9BCC5" stroke-width="1.4"/>
+
+      <text x="19" y="267" fill="#B9BCC5" fill-opacity=".65" font-family="Inter, Arial, sans-serif" font-size="15">Type or paste your prompt…</text>
+      <line x1="18" y1="382" x2="632" y2="382" stroke="#B9BCC5" stroke-opacity=".18"/>
+      <rect x="18" y="395" width="142" height="34" rx="17" fill="#16181D" stroke="#B9BCC5" stroke-opacity=".2"/>
+      <text x="89" y="417" fill="#B9BCC5" font-family="Inter, Arial, sans-serif" font-size="12" text-anchor="middle">✦ Try a template</text>
+      <line x1="0" y1="441" x2="650" y2="441" stroke="#B9BCC5" stroke-opacity=".18"/>
+      <text x="18" y="462" fill="#B9BCC5" font-family="Inter, Arial, sans-serif" font-size="12">⌁ 0 tokens</text>
+      <text x="456" y="462" fill="#B9BCC5" font-family="Inter, Arial, sans-serif" font-size="12">↺ Clear</text>
+      <rect x="522" y="447" width="112" height="40" rx="20" fill="#B7FF3C"/>
+      <text x="578" y="472" fill="#0E1013" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" text-anchor="middle">► ENHANCE</text>
+    </g>
+
+    <rect x="24" y="632" width="1232" height="64" fill="#101216" fill-opacity=".92" stroke="#B9BCC5" stroke-opacity=".12"/>
+    <g transform="translate(315 638)" font-family="Inter, Arial, sans-serif" font-size="11" text-anchor="middle">
+      <g transform="translate(108 0)" fill="#B7FF3C"><circle cx="0" cy="15" r="7" fill="none" stroke="#B7FF3C" stroke-width="1.5"/><path d="M0 4v4M0 22v4M-11 15h4M7 15h4" stroke="#B7FF3C" stroke-width="1.5"/><text x="0" y="43">Enhance</text><circle cx="0" cy="51" r="2"/></g>
+      <g transform="translate(325 0)" fill="#B9BCC5"><path d="M-8 7h15a3 3 0 0 1 3 3v20M-5 7v23M-8 30h18" fill="none" stroke="#B9BCC5" stroke-width="1.5"/><text x="0" y="43">Library</text></g>
+      <g transform="translate(542 0)" fill="#B9BCC5"><circle cx="0" cy="16" r="6" fill="none" stroke="#B9BCC5" stroke-width="1.5"/><path d="M0 4v4M0 24v4M-12 16h4M8 16h4" stroke="#B9BCC5" stroke-width="1.5"/><text x="0" y="43">Settings</text></g>
+    </g>
+  </g>
+  <rect x="24" y="82" width="1232" height="614" rx="22" fill="none" stroke="url(#frame)" stroke-opacity=".42" stroke-width="2"/>
+</svg>

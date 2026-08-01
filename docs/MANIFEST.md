@@ -1,25 +1,53 @@
 # Repository Manifest
 
-## Primary Documents
+## Primary documents
 
-- `README.md` — Profile/portfolio landing page and operating guide.
-- `CHANGELOG.md` — Change history in Keep a Changelog style.
+- `README.md` — Public GitHub profile and portfolio landing page.
+- `CHANGELOG.md` — Change history in Keep a Changelog format.
 - `SECURITY.md` — Security reporting process and policy.
 - `CONTRIBUTING.md` — Contribution process.
+- `CODE_OF_CONDUCT.md` — Community participation expectations.
 
-## Visual Assets
+## Brand assets
 
-- `assets/brand/vasey-multimedia-banner.jpeg` — Official Vasey Multimedia top banner.
-- `assets/portraits/sean-vasey-portrait.png` — Primary circular portrait used near README header.
-- `assets/portraits/sean-vasey-portrait-cyan.jpeg` — Alternate portrait badge.
-- `assets/placards/*.jpeg|png` — Application-specific portfolio placards.
-- `assets/placeholders/*.svg` — Legacy/fallback card placeholders.
+- `assets/banner.svg` — studio/VASEY profile header using the current near-black, cyan, grid, signal-trace, Bebas/Reddit/mono house system, with display typography preserved as vector outlines.
+- `assets/brand/vm-mark.svg` — Canonical Vasey Multimedia monogram, preserved from the shared VASEY application footer and placed on a dark contrast tile for GitHub themes.
+- `assets/brand/vai-mark.svg` — Canonical VASEY/AI monogram, preserved from the shared VASEY application footer and placed on a dark contrast tile for GitHub themes.
+- `assets/divider.svg` — Decorative cyan footer divider.
 
-## Automation
+## Product previews
 
-- `.github/workflows/ci.yml` — Markdown quality CI checks on PR and push.
-- `.github/workflows/summary.yml` — AI-powered issue summarization on new issue creation.
+The six files in `assets/cards/` are source-informed 1280 × 720 SVG interface previews. They share a restrained VASEY/DEV outer frame while retaining each product's native palette and recognizable controls.
+
+- `assets/cards/vizion.svg`
+- `assets/cards/reprompter2.svg`
+- `assets/cards/ikonik.svg`
+- `assets/cards/page-x.svg`
+- `assets/cards/styleyes.svg`
+- `assets/cards/resourcery.svg`
+
+Versions intentionally remain outside the artwork so that routine releases do not make the visual portfolio inaccurate.
+
+## Product icons
+
+The 192 × 192 PNG files in `assets/icons/` are copied from each product's canonical source repository rather than redrawn.
+
+| Profile asset | Canonical source |
+| --- | --- |
+| `assets/icons/vizion.png` | `SeanVasey/VIZION: public/icons/icon-192.png` |
+| `assets/icons/reprompter2.png` | `SeanVasey/rePROMPTer2: public/icon-192.png` |
+| `assets/icons/ikonik.png` | `SeanVasey/IkoniK: public/icons/icon-192.png` |
+| `assets/icons/page-x.png` | `SeanVasey/PAGE-X: icon-192.png` |
+| `assets/icons/styleyes.png` | `SeanVasey/StyleyeS: icons/icon-192.png` |
+| `assets/icons/resourcery.png` | `SeanVasey/reSOURCERY: icons/icon-192.png` |
+
+## Automation and configuration
+
+- `.github/workflows/ci.yml` — Pinned Markdown quality and README link checks on pull requests and pushes to `main`.
+- `.github/workflows/summary.yml` — Issue-summary automation.
+- `.markdown-link-check.json` — README link-check policy; excludes non-HTTP `mailto:` links.
+- `.markdownlint.json` — Repository Markdown policy, including intentional allowances for profile-layout HTML.
 
 ## Notes
 
-This repo is documentation-first and does not host executable backend services.
+This repository is documentation-first and does not host an executable backend service. Product deployments and source code live in their linked application repositories.

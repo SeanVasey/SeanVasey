@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="rep-title rep-desc">
+  <title id="rep-title">rePROMPTer prompt optimization interface preview</title>
+  <desc id="rep-desc">A faithful preview of rePROMPTer showing its black, crimson, and chrome identity, editor canvas, refinement actions, modes, and model selector.</desc>
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00FFFF"/><stop offset="1" stop-color="#009CFF"/></linearGradient>
+    <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".38" stop-color="#E7E7EC"/><stop offset=".58" stop-color="#93939B"/><stop offset=".78" stop-color="#D0D0D6"/><stop offset="1" stop-color="#76767D"/></linearGradient>
+    <linearGradient id="crimson" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#FF6164"/><stop offset=".55" stop-color="#E0383B"/><stop offset="1" stop-color="#A51F23"/></linearGradient>
+    <radialGradient id="redGlow" cx="50%" cy="8%" r="70%"><stop stop-color="#E0383B" stop-opacity=".28"/><stop offset=".42" stop-color="#A51F23" stop-opacity=".09"/><stop offset="1" stop-color="#0A0A0B" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#FFFFFF" stroke-opacity=".025"/></pattern>
+    <clipPath id="viewportClip"><rect x="24" y="82" width="1232" height="614" rx="22"/></clipPath>
+    <filter id="redSoft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="10"/></filter>
+  </defs>
+
+  <rect width="1280" height="720" fill="#101214"/>
+  <rect x="24" y="18" width="1232" height="52" rx="16" fill="#15191D" stroke="url(#frame)" stroke-opacity=".8"/>
+  <circle cx="50" cy="44" r="5" fill="#00FFFF"/>
+  <text x="68" y="50" fill="#EAFBFF" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">VASEY/DEV</text>
+  <text x="1228" y="50" text-anchor="end" fill="#73909B" font-family="Inter, Arial, sans-serif" font-size="13" letter-spacing="1.4">APPLICATION PREVIEW</text>
+
+  <g clip-path="url(#viewportClip)">
+    <rect x="24" y="82" width="1232" height="614" fill="#0A0A0B"/>
+    <rect x="24" y="82" width="1232" height="614" fill="url(#redGlow)"/>
+    <rect x="24" y="82" width="1232" height="614" fill="url(#grid)"/>
+    <circle cx="280" cy="355" r="180" fill="#A51F23" opacity=".055" filter="url(#redSoft)"/>
+    <circle cx="1040" cy="280" r="160" fill="#FF5256" opacity=".045" filter="url(#redSoft)"/>
+
+    <g transform="translate(280 102)">
+      <text x="360" y="0" text-anchor="middle" fill="#75727A" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="4">VASEY/AI PRESENTS</text>
+      <g transform="translate(322 12)">
+        <circle cx="38" cy="38" r="34" fill="#141215" stroke="#E0383B" stroke-width="2"/>
+        <path d="M22 49V28c0-8 6-12 14-12h11c9 0 15 5 15 13 0 8-6 13-15 13h-9" fill="none" stroke="url(#chrome)" stroke-width="6" stroke-linecap="round"/>
+        <path d="M18 22c7-11 25-15 38-8l6-6 3 17-17-2 6-5M60 53c-8 10-25 13-37 6l-6 6-3-17 17 2-6 5" fill="none" stroke="#E0383B" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <text x="360" y="119" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="51" font-weight="800" letter-spacing="-1"><tspan fill="url(#chrome)">re</tspan><tspan fill="url(#crimson)">PROMPT</tspan><tspan fill="url(#chrome)">er</tspan></text>
+      <text x="360" y="148" text-anchor="middle" fill="#B9B6BB" font-family="Inter, Arial, sans-serif" font-size="15">The advanced prompt optimization engine.</text>
+      <g transform="translate(218 162)" font-family="Inter, Arial, sans-serif" font-size="11" fill="#B9B6BB">
+        <rect width="87" height="25" rx="12.5" fill="#141215" stroke="#FFFFFF" stroke-opacity=".1"/><text x="43.5" y="17" text-anchor="middle">Vision-aware</text>
+        <rect x="96" width="78" height="25" rx="12.5" fill="#141215" stroke="#FFFFFF" stroke-opacity=".1"/><text x="135" y="17" text-anchor="middle">Streaming</text>
+        <rect x="183" width="82" height="25" rx="12.5" fill="#141215" stroke="#FFFFFF" stroke-opacity=".1"/><text x="224" y="17" text-anchor="middle">Recursive</text>
+      </g>
+
+      <rect x="0" y="207" width="720" height="415" rx="24" fill="#161417" fill-opacity=".82" stroke="#FFFFFF" stroke-opacity=".1"/>
+      <path d="M1 231Q1 208 25 208H695Q719 208 719 231" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+
+      <rect x="22" y="229" width="676" height="198" rx="16" fill="#0D0C0E" fill-opacity=".64" stroke="#FFFFFF" stroke-opacity=".11"/>
+      <line x1="22" y1="273" x2="698" y2="273" stroke="#FFFFFF" stroke-opacity=".08"/>
+      <circle cx="43" cy="251" r="4.5" fill="#E0383B"/>
+      <text x="57" y="256" fill="#B9B6BB" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2.5">EDITOR CANVAS</text>
+      <text x="679" y="256" text-anchor="end" fill="#75727A" font-family="monospace" font-size="11">0 chars</text>
+      <text x="42" y="311" fill="#4C4A51" font-family="monospace" font-size="15">Start typing, paste, or drop a prompt…</text>
+      <line x1="22" y1="369" x2="698" y2="369" stroke="#FFFFFF" stroke-opacity=".08"/>
+      <rect x="38" y="381" width="104" height="34" rx="10" fill="#FFFFFF" fill-opacity=".03" stroke="#FFFFFF" stroke-opacity=".14"/>
+      <path d="M50 392h18v13H50zM52 402l5-5 4 4 3-2 4 4" fill="none" stroke="#B9B6BB" stroke-width="1.4"/>
+      <text x="79" y="403" fill="#B9B6BB" font-family="Inter, Arial, sans-serif" font-size="12">Media</text>
+      <rect x="550" y="379" width="132" height="38" rx="10" fill="#E0383B" fill-opacity=".24" stroke="#E0383B" stroke-opacity=".7"/>
+      <path d="M568 390l2 5 5 2-5 2-2 5-2-5-5-2 5-2Z" fill="#FF5256"/>
+      <text x="616" y="404" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800" text-anchor="middle" letter-spacing="1">REFINE</text>
+      <rect x="649" y="389" width="24" height="18" rx="5" fill="#050508" fill-opacity=".55" stroke="#FFFFFF" stroke-opacity=".2"/>
+      <text x="661" y="402" text-anchor="middle" fill="#E7E7EC" font-family="monospace" font-size="10">⌘↵</text>
+
+      <g transform="translate(22 444)" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">
+        <rect width="159" height="48" rx="12" fill="#E0383B" fill-opacity=".14" stroke="#E0383B" stroke-opacity=".7"/><text x="79.5" y="30" fill="#FFFFFF" text-anchor="middle">✦ ENHANCE</text>
+        <rect x="169" width="159" height="48" rx="12" fill="#FFFFFF" fill-opacity=".02" stroke="#FFFFFF" stroke-opacity=".08"/><text x="248.5" y="30" fill="#B9B6BB" text-anchor="middle">↗ EXPAND</text>
+        <rect x="338" width="159" height="48" rx="12" fill="#FFFFFF" fill-opacity=".02" stroke="#FFFFFF" stroke-opacity=".08"/><text x="417.5" y="30" fill="#B9B6BB" text-anchor="middle">◎ CLARIFY</text>
+        <rect x="507" width="169" height="48" rx="12" fill="#FFFFFF" fill-opacity=".02" stroke="#FFFFFF" stroke-opacity=".08"/><text x="591.5" y="30" fill="#B9B6BB" text-anchor="middle">✎ REWRITE</text>
+      </g>
+      <rect x="22" y="508" width="676" height="48" rx="12" fill="#050508" fill-opacity=".38" stroke="#FFFFFF" stroke-opacity=".09"/>
+      <circle cx="49" cy="532" r="5" fill="#E0383B"/>
+      <path d="M49 518v7M49 539v7M35 532h7M56 532h7" stroke="#E0383B" stroke-width="1.4"/>
+      <text x="68" y="537" fill="#F4F3F4" font-family="Inter, Arial, sans-serif" font-size="14">Anthropic Claude Opus 4.8</text>
+      <path d="m668 528 6 7 6-7" fill="none" stroke="#75727A" stroke-width="1.5"/>
+      <rect x="22" y="572" width="676" height="34" rx="12" fill="#0D0C0E" fill-opacity=".5" stroke="#FFFFFF" stroke-opacity=".07"/>
+      <circle cx="43" cy="589" r="4" fill="#4C4A51"/>
+      <text x="57" y="594" fill="#B9B6BB" font-family="Inter, Arial, sans-serif" font-size="11" letter-spacing="2">REFINED PROMPT</text>
+      <text x="680" y="594" text-anchor="end" fill="#75727A" font-family="monospace" font-size="11">Ready</text>
+    </g>
+  </g>
+  <rect x="24" y="82" width="1232" height="614" rx="22" fill="none" stroke="url(#frame)" stroke-opacity=".42" stroke-width="2"/>
+</svg>
