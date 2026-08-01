@@ -10,9 +10,9 @@
 
 ## Brand assets
 
-- `assets/banner.svg` — studio/VASEY profile header using the current near-black, cyan, grid, signal-trace, Bebas/Reddit/mono house system.
-- `assets/brand/vm-mark.svg` — Canonical Vasey Multimedia monogram, preserved from the shared VASEY application footer.
-- `assets/brand/vai-mark.svg` — Canonical VASEY/AI monogram, preserved from the shared VASEY application footer.
+- `assets/banner.svg` — studio/VASEY profile header using the current near-black, cyan, grid, signal-trace, Bebas/Reddit/mono house system, with display typography preserved as vector outlines.
+- `assets/brand/vm-mark.svg` — Canonical Vasey Multimedia monogram, preserved from the shared VASEY application footer and placed on a dark contrast tile for GitHub themes.
+- `assets/brand/vai-mark.svg` — Canonical VASEY/AI monogram, preserved from the shared VASEY application footer and placed on a dark contrast tile for GitHub themes.
 - `assets/divider.svg` — Decorative cyan footer divider.
 
 ## Product previews

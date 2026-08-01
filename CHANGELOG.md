@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Rebuilt the profile around studio/VASEY, VASEY/DEV, the current product portfolio, and evidence-based capabilities.
 - Corrected product names and deployment links, including the current rePROMPTer 2 and ISS Observer destinations.
+- Made the product gallery mobile-friendly and improved headings, link labels, brand-mark contrast, and deterministic banner typography for accessible GitHub rendering.
 - Updated Markdown CI to Node 22 and pinned the lint and link-check tool versions.
 
 ### Removed

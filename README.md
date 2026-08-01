@@ -34,89 +34,84 @@ Through **studio/VASEY**, I am building a connected portfolio of creator-facing 
 
 Every preview below is standardized to the same 16:9 frame and represents the product's current interface and visual system. Product versions stay in the source repositories—not fossilized inside portfolio art.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://vizion-io.vercel.app/">
-        <img src="assets/cards/vizion.svg" width="100%" alt="VIZION mobile interface preview with prompt input, enhancement modes, and a neon green action control" />
-      </a>
-      <br />
-      <img src="assets/icons/vizion.png" width="34" alt="" />
-      <strong>VIZION</strong><br />
-      <sub><strong>Live</strong> · VASEY/AI × VASEY/DEV</sub>
-      <p>Transforms rough prompts into model-aware, structured instructions through a focused mobile-first refinement workflow.</p>
-      <a href="https://vizion-io.vercel.app/">Open app</a> · <a href="https://github.com/SeanVasey/VIZION">Source</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://reprompter2.vercel.app/">
-        <img src="assets/cards/reprompter2.svg" width="100%" alt="rePROMPTer 2 interface preview with editor canvas, refinement modes, and crimson controls" />
-      </a>
-      <br />
-      <img src="assets/icons/reprompter2.png" width="34" alt="" />
-      <strong>rePROMPTer 2</strong><br />
-      <sub><strong>Live</strong> · VASEY/AI × VASEY/DEV</sub>
-      <p>Recursive, vision-aware prompt refinement with configurable modes, model selection, streaming output, and reusable history.</p>
-      <a href="https://reprompter2.vercel.app/">Open app</a> · <a href="https://github.com/SeanVasey/rePROMPTer2">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://ikonik-zeta.vercel.app/">
-        <img src="assets/cards/ikonik.svg" width="100%" alt="IkoniK vector studio interface preview with image upload, analysis, and SVG output panels" />
-      </a>
-      <br />
-      <img src="assets/icons/ikonik.png" width="34" alt="" />
-      <strong>IkoniK</strong><br />
-      <sub><strong>Live</strong> · VASEY/AI × VASEY/DEV</sub>
-      <p>Claude-powered raster-to-vector studio producing optimized SVG output with visual analysis and fidelity tooling.</p>
-      <a href="https://ikonik-zeta.vercel.app/">Open app</a> · <a href="https://github.com/SeanVasey/IkoniK">Source</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://page-x.vercel.app/">
-        <img src="assets/cards/page-x.svg" width="100%" alt="PAGE-X interface preview with oversized-media upload, page extraction settings, and PDF or DOCX output" />
-      </a>
-      <br />
-      <img src="assets/icons/page-x.png" width="34" alt="" />
-      <strong>PAGE•X</strong><br />
-      <sub><strong>Live</strong> · VASEY/AI × VASEY/DEV</sub>
-      <p>Extracts long images, scrolling captures, and PDFs into correctly paginated PDF or DOCX documents.</p>
-      <a href="https://page-x.vercel.app/">Open app</a> · <a href="https://github.com/SeanVasey/PAGE-X">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://styleyes.vercel.app/">
-        <img src="assets/cards/styleyes.svg" width="100%" alt="StyleyeS interface preview with prompt input, target model selection, aspect ratio, and style controls" />
-      </a>
-      <br />
-      <img src="assets/icons/styleyes.png" width="34" alt="" />
-      <strong>StyleyeS</strong><br />
-      <sub><strong>Live</strong> · VASEY/AI × VASEY/DEV</sub>
-      <p>Builds image-generation prompts from curated visual styles, lighting systems, aspect ratios, and model-specific controls.</p>
-      <a href="https://styleyes.vercel.app/">Open app</a> · <a href="https://github.com/SeanVasey/StyleyeS">Source</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://resourcery.vercel.app/">
-        <img src="assets/cards/resourcery.svg" width="100%" alt="reSOURCERY audio extraction interface preview with URL input, media drop zone, formats, and analysis controls" />
-      </a>
-      <br />
-      <img src="assets/icons/resourcery.png" width="34" alt="" />
-      <strong>reSOURCERY</strong><br />
-      <sub><strong>Live</strong> · VASEY.AUDIO × VASEY/DEV</sub>
-      <p>Extracts and converts audio from media, then analyzes waveform, tempo, and key with an FFmpeg.wasm-powered workflow.</p>
-      <a href="https://resourcery.vercel.app/">Open app</a> · <a href="https://github.com/SeanVasey/reSOURCERY">Source</a>
-    </td>
-  </tr>
-</table>
+### VIZION
+
+<a href="https://vizion-io.vercel.app/">
+  <img src="assets/cards/vizion.svg" width="100%" alt="VIZION mobile interface preview with prompt input, enhancement modes, and a neon green action control" />
+</a>
+
+<img src="assets/icons/vizion.png" width="34" alt="" /> **Live** · VASEY/AI × VASEY/DEV
+
+Transforms rough prompts into model-aware, structured instructions through a focused mobile-first refinement workflow.
+
+[Open VIZION](https://vizion-io.vercel.app/) · [VIZION source](https://github.com/SeanVasey/VIZION)
+
+### rePROMPTer 2
+
+<a href="https://reprompter2.vercel.app/">
+  <img src="assets/cards/reprompter2.svg" width="100%" alt="rePROMPTer 2 interface preview with editor canvas, refinement modes, and crimson controls" />
+</a>
+
+<img src="assets/icons/reprompter2.png" width="34" alt="" /> **Live** · VASEY/AI × VASEY/DEV
+
+Recursive, vision-aware prompt refinement with configurable modes, model selection, streaming output, and reusable history.
+
+[Open rePROMPTer 2](https://reprompter2.vercel.app/) · [rePROMPTer 2 source](https://github.com/SeanVasey/rePROMPTer2)
+
+### IkoniK
+
+<a href="https://ikonik-zeta.vercel.app/">
+  <img src="assets/cards/ikonik.svg" width="100%" alt="IkoniK vector studio interface preview with image upload, analysis, and SVG output panels" />
+</a>
+
+<img src="assets/icons/ikonik.png" width="34" alt="" /> **Live** · VASEY/AI × VASEY/DEV
+
+Claude-powered raster-to-vector studio producing optimized SVG output with visual analysis and fidelity tooling.
+
+[Open IkoniK](https://ikonik-zeta.vercel.app/) · [IkoniK source](https://github.com/SeanVasey/IkoniK)
+
+### PAGE•X
+
+<a href="https://page-x.vercel.app/">
+  <img src="assets/cards/page-x.svg" width="100%" alt="PAGE-X interface preview with oversized-media upload, page extraction settings, and PDF or DOCX output" />
+</a>
+
+<img src="assets/icons/page-x.png" width="34" alt="" /> **Live** · VASEY/AI × VASEY/DEV
+
+Extracts long images, scrolling captures, and PDFs into correctly paginated PDF or DOCX documents.
+
+[Open PAGE•X](https://page-x.vercel.app/) · [PAGE•X source](https://github.com/SeanVasey/PAGE-X)
+
+### StyleyeS
+
+<a href="https://styleyes.vercel.app/">
+  <img src="assets/cards/styleyes.svg" width="100%" alt="StyleyeS interface preview with prompt input, target model selection, aspect ratio, and style controls" />
+</a>
+
+<img src="assets/icons/styleyes.png" width="34" alt="" /> **Live** · VASEY/AI × VASEY/DEV
+
+Builds image-generation prompts from curated visual styles, lighting systems, aspect ratios, and model-specific controls.
+
+[Open StyleyeS](https://styleyes.vercel.app/) · [StyleyeS source](https://github.com/SeanVasey/StyleyeS)
+
+### reSOURCERY
+
+<a href="https://resourcery.vercel.app/">
+  <img src="assets/cards/resourcery.svg" width="100%" alt="reSOURCERY audio extraction interface preview with URL input, media drop zone, and supported media formats" />
+</a>
+
+<img src="assets/icons/resourcery.png" width="34" alt="" /> **Live** · VASEY/AI × VASEY.AUDIO × VASEY/DEV
+
+Extracts and converts audio from media, then analyzes waveform, tempo, and key with an FFmpeg.wasm-powered workflow.
+
+[Open reSOURCERY](https://resourcery.vercel.app/) · [reSOURCERY source](https://github.com/SeanVasey/reSOURCERY)
 
 ## More shipped work
 
-| Product | Status | What it does | Links |
-| --- | --- | --- | --- |
-| **FilePhile** | Live | Browser-based text-file editor and generator with import, preview, multi-format downloads, and offline PWA support. | [App](https://filephile.vercel.app/) · [Source](https://github.com/SeanVasey/FilePhile) |
-| **ISS Observer — VASEY/SPACE** | Live | Real-time ISS tracking, pass predictions, 2D/3D visualization, and location-aware viewing guidance. | [App](https://iss-observer.vercel.app/) · [Source](https://github.com/SeanVasey/ISS-Observer) |
-| **REGENESYS** | Live | Visual prompt reverse-engineering studio for image analysis, hybrid style synthesis, controlled variants, and platform-targeted prompts. | [App](https://regenesys.vercel.app/) · [Source](https://github.com/SeanVasey/REGENESYS) |
-| **DULLAH80s** | Live | Web Audio drum machine with synthesized pads, a 16-step sequencer, effects, and performance controls. | [App](https://seanvasey.github.io/DULLAH80s/) · [Source](https://github.com/SeanVasey/DULLAH80s) |
+- **FilePhile · Live** — Browser-based text-file editor and generator with import, preview, multi-format downloads, and offline PWA support. [Open FilePhile](https://filephile.vercel.app/) · [FilePhile source](https://github.com/SeanVasey/FilePhile)
+- **ISS Observer — VASEY/SPACE · Live** — Real-time ISS tracking, pass predictions, 2D/3D visualization, and location-aware viewing guidance. [Open ISS Observer](https://iss-observer.vercel.app/) · [ISS Observer source](https://github.com/SeanVasey/ISS-Observer)
+- **REGENESYS · Live** — Visual prompt reverse-engineering studio for image analysis, hybrid style synthesis, controlled variants, and platform-targeted prompts. [Open REGENESYS](https://regenesys.vercel.app/) · [REGENESYS source](https://github.com/SeanVasey/REGENESYS)
+- **DULLAH80s · Live** — Web Audio drum machine with synthesized pads, a 16-step sequencer, effects, and performance controls. [Open DULLAH80s](https://seanvasey.github.io/DULLAH80s/) · [DULLAH80s source](https://github.com/SeanVasey/DULLAH80s)
 
 ## The studio/VASEY ecosystem
 
@@ -157,6 +152,6 @@ This repository contains the public GitHub profile for Sean Vasey. It is documen
 <img src="assets/divider.svg" width="80%" alt="" />
 
 <strong>Designed and built in Des Moines, Iowa.</strong><br />
-<sub>Music-trained. Product-minded. Mildly suspicious of unnecessary dashboards.</sub>
+<small>Music-trained. Product-minded. Mildly suspicious of unnecessary dashboards.</small>
 
 </div>
